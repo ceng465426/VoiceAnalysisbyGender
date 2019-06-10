@@ -1,2 +1,2 @@
 # VoiceAnalysisbyGender
-Voice Analysis by Gneder
+Voice Analysis by Gender
